@@ -104,8 +104,8 @@ Cada problema cuenta con sus propias clases `domain` y `view`. Selecciona un pro
 <summary><b>📁 Problema 2</b> — Planilla de consumo eléctrico. </summary>
 
 **Accesos:**
-- [📄 Ver PlanillaElectrica.java](./src/Problema2/domain/Problema2.java)
-- [📄 Ver ExecutorPlanillaElectrica.java](./src/Problema2/view/VistaProblema2.java)
+- [📄 Ver ExecutorPlanillaElectrica.java](./ExecutorPlanillaElectrica.java)[cite: 2]
+- [📄 Ver PlanillaElectrica.java](./PlanillaElectrica.java)[cite: 2]
 
 </details>
 
