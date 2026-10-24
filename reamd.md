@@ -135,7 +135,7 @@ Cada problema cuenta con sus propias clases `domain` y `view`. Selecciona un pro
 <summary><b>📁 Problema 4</b> — Cuenta bancaria. </summary>
 
 **Accesos:**
-- [📄 Ver CuentaExecutor.java](.CuentaExecutor.java)
+- [📄 Ver CuentaExecutor.java](CuentaExecutor.java)
 - [📄 Ver CuentaBancaria.java](CuentaBancaria.java)
 
 </details>
