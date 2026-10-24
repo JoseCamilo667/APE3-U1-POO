@@ -95,7 +95,7 @@ Cada problema cuenta con sus propias clases `domain` y `view`. Selecciona un pro
 
 **Accesos:**
 - [📄 Ver FraccionMatematica.java](./FraccionMatematica.java)
-- [📄 Ver VistaProblema1.java](./src/Problema1/view/VistaProblema1.java)
+- [📄 Ver Main.java](./Main.java)
 
 </details>
 
