@@ -113,8 +113,8 @@ Cada problema cuenta con sus propias clases `domain` y `view`. Selecciona un pro
 <summary><b>📁 Problema 3</b> — Ecuación cuadrática. </summary>
 
 **Accesos:**
-- [📄 Ver Problema3.java](./src/Problema3/domain/Problema3.java)
-- [📄 Ver VistaProblema3.java](./src/Problema3/view/VistaProblema3.java)
+- [📄 Ver EcuacionCuadraticaMain.java](EcuacionCuadraticaMain.java)
+- [📄 Ver EcucionCuadratica.java](EcuacionCuadratica.java)
 
 </details>
 
