@@ -145,36 +145,6 @@ Cada problema cuenta con sus propias clases `domain` y `view`. Selecciona un pro
 
 ---
 
-## 🔗 Vinculación de las clases Java
-
-Las clases se conectan mediante `package` e `import`, permitiendo separar la lógica del programa de la interfaz de usuario.
-
-Por ejemplo, en `VistaProblema1.java`:
-
-```java
-package Problema1.view;
-
-import Problema1.domain.Problema1;
-```
-
-En `Main.java`, se importan las cuatro vistas:
-
-```java
-import Problema1.view.VistaProblema1;
-import Problema2.view.VistaProblema2;
-import Problema3.view.VistaProblema3;
-import Problema4.view.VistaProblema4;
-```
-
-Cada vista puede ejecutarse desde el menú principal mediante una llamada como:
-
-```java
-VistaProblema1.ejecutar();
-```
-
-Las cuatro vistas deben implementar el método `public static void ejecutar()` para que el menú funcione correctamente.
-
----
 
 ## ▶️ Instrucciones de ejecución
 
