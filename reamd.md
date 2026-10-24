@@ -98,7 +98,7 @@ Cada problema cuenta con sus propias clases `domain` y `view`. Selecciona un pro
 - [📄 Ver VistaProblema1.java](./src/Problema1/view/VistaProblema1.java)
 
 </details>
-
+- [📄 Ver FraccionMatematica.java](./FraccionMatematica.java)
 
 <details>
 <summary><b>📁 Problema 2</b> — Planilla de consumo eléctrico. </summary>
