@@ -135,11 +135,8 @@ Cada problema cuenta con sus propias clases `domain` y `view`. Selecciona un pro
 <summary><b>📁 Problema 4</b> — Cuenta bancaria. </summary>
 
 **Accesos:**
-
-- [📂 Abrir carpeta domain](./src/Problema4/domain/)
-- [📂 Abrir carpeta view](./src/Problema4/view/)
-- [📄 Ver Problema4.java](./src/Problema4/domain/Problema4.java)
-- [📄 Ver VistaProblema4.java](./src/Problema4/view/VistaProblema4.java)
+- [📄 Ver CuentaExecutor.java](.CuentaExecutor.java)
+- [📄 Ver CuentaBancaria.java](CuentaBancaria.java)
 
 </details>
 
