@@ -94,9 +94,6 @@ Cada problema cuenta con sus propias clases `domain` y `view`. Selecciona un pro
 
 
 **Accesos:**
-
-- [📂 Abrir carpeta domain](./src/Problema1/domain/)
-- [📂 Abrir carpeta view](./src/Problema1/view/)
 - [📄 Ver Problema1.java](./src/Problema1/domain/Problema1.java)
 - [📄 Ver VistaProblema1.java](./src/Problema1/view/VistaProblema1.java)
 
@@ -107,9 +104,6 @@ Cada problema cuenta con sus propias clases `domain` y `view`. Selecciona un pro
 <summary><b>📁 Problema 2</b> — Planilla de consumo eléctrico. </summary>
 
 **Accesos:**
-
-- [📂 Abrir carpeta domain](./src/Problema2/domain/)
-- [📂 Abrir carpeta view](./src/Problema2/view/)
 - [📄 Ver Problema2.java](./src/Problema2/domain/Problema2.java)
 - [📄 Ver VistaProblema2.java](./src/Problema2/view/VistaProblema2.java)
 
@@ -121,9 +115,6 @@ Cada problema cuenta con sus propias clases `domain` y `view`. Selecciona un pro
 <summary><b>📁 Problema 3</b> — Ecuación cuadrática. </summary>
 
 **Accesos:**
-
-- [📂 Abrir carpeta domain](./src/Problema3/domain/)
-- [📂 Abrir carpeta view](./src/Problema3/view/)
 - [📄 Ver Problema3.java](./src/Problema3/domain/Problema3.java)
 - [📄 Ver VistaProblema3.java](./src/Problema3/view/VistaProblema3.java)
 
