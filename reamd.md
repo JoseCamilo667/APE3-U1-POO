@@ -89,20 +89,9 @@ El proyecto separa la lógica de cada ejercicio de la interacción con el usuari
 Cada problema cuenta con sus propias clases `domain` y `view`. Selecciona un problema para desplegar sus archivos y acceder a ellos en GitHub.
 
 <details>
-<summary><b>📁 Problema 1</b> — Primer ejercicio</summary>
+  
+<summary><b>📁 Problema 1</b> — Fracción matemática. </summary>
 
-```text
-Problema1
-├── 📦 domain
-│   └── Problema1.java
-└── 📦 view
-    └── VistaProblema1.java
-```
-
-| Archivo | Descripción |
-|---|---|
-| `Problema1.java` | Lógica del primer ejercicio. |
-| `VistaProblema1.java` | Entrada de datos y presentación de resultados. |
 
 **Accesos:**
 
@@ -113,21 +102,9 @@ Problema1
 
 </details>
 
+
 <details>
-<summary><b>📁 Problema 2</b> — Segundo ejercicio</summary>
-
-```text
-Problema2
-├── 📦 domain
-│   └── Problema2.java
-└── 📦 view
-    └── VistaProblema2.java
-```
-
-| Archivo | Descripción |
-|---|---|
-| `Problema2.java` | Lógica del segundo ejercicio. |
-| `VistaProblema2.java` | Entrada de datos y presentación de resultados. |
+<summary><b>📁 Problema 2</b> — Planilla de consumo eléctrico. </summary>
 
 **Accesos:**
 
@@ -138,21 +115,10 @@ Problema2
 
 </details>
 
+
 <details>
-<summary><b>📁 Problema 3</b> — Tercer ejercicio</summary>
-
-```text
-Problema3
-├── 📦 domain
-│   └── Problema3.java
-└── 📦 view
-    └── VistaProblema3.java
-```
-
-| Archivo | Descripción |
-|---|---|
-| `Problema3.java` | Lógica del tercer ejercicio. |
-| `VistaProblema3.java` | Entrada de datos y presentación de resultados. |
+  
+<summary><b>📁 Problema 3</b> — Ecuación cuadrática. </summary>
 
 **Accesos:**
 
@@ -163,21 +129,10 @@ Problema3
 
 </details>
 
+
 <details>
-<summary><b>📁 Problema 4</b> — Cuarto ejercicio</summary>
-
-```text
-Problema4
-├── 📦 domain
-│   └── Problema4.java
-└── 📦 view
-    └── VistaProblema4.java
-```
-
-| Archivo | Descripción |
-|---|---|
-| `Problema4.java` | Lógica del cuarto ejercicio. |
-| `VistaProblema4.java` | Entrada de datos y presentación de resultados. |
+  
+<summary><b>📁 Problema 4</b> — Cuenta bancaria. </summary>
 
 **Accesos:**
 
